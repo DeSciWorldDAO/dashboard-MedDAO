@@ -1,1 +1,38 @@
+{"name":"MedDAO",
+"tokenSymbol":"$MED",
+"DaoOS":"Snapshot",
+"address":null,
+"description":"Building a decentralized medical knowledge network — a new value layer in healthcare.",
+"whitePaperLink":"https://gov.meddao.xyz/c/other-gov/constitution/14",
+"Gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/Kr8OL25.jpg",
+       "source": "image",
+       "link": "https://youtu.be/Mgu7bNDL24g"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/k619RLW.jpghttps://i.imgur.com/k619RLW.jpg",        
+       "source": "image",
+       "link": "https://www.youtube.com/playlist?list=PLYEsLprhTPahslC9DhMjOBJPWhWe9Vd4R"},
+ {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/2BINX1E.jpg",     
+       "source": "image",
+       "link": "https://www.youtube.com/playlist?list=PLYEsLprhTPahIKeqNwExRWriZe6BG1Rqw"}
+],
+"deleted":false,
+"primaryColor":"#ff003f",
+"twitterHandle":"MedDAO_xyz",
+"coingeckoId":"",
+"snapshotId":"https://app.kali.gg/daos/1/0xdd019415188f122ef294f5a17e4cef304c2af167",
+"logo":"https://www.meddao.xyz/MedDAO_Logo_Red.svg",
+"telegramLink":null,
+"discordLink":null,
+"website":"https://meddao.xyz",
+"tokenDescription":"https://etherscan.io/address/0xdd019415188f122ef294f5a17e4cef304c2af167",
+"tokenTradeLink":null,
 
+"tags":["Decentralized Biotech","Biopharma", "Ecosystems", "NFTs", "Decentralized Funding", "Blockchain protocols", "Science DeFi"]
+  
+}
